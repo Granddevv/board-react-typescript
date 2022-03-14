@@ -1,4 +1,4 @@
-Todo App with Hasura Graphql
+Task Board App with React, TypeScript
 
 ### Installation
 
